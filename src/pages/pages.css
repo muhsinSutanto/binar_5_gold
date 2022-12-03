@@ -11,3 +11,11 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.filter-section {
+  display: flex;
+}
+
+.body-wrapper {
+  width: 100%;
+}
